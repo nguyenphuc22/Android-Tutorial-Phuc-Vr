@@ -2,7 +2,7 @@
 
 This project will walk you through using the Glide library; this sample code helps you understand the basics of loading gifs and images. There are [videos](https://www.youtube.com/channel/UC0znhbHQSm5kSd4RH9OW_iw) and [articles](https://www.buymeacoffee.com/phucvr/how-load-gif-using-glide-android-tutorial) on glide tutorials tonight.
 
-## Donate
+# Donate
 
 ---
 
