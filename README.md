@@ -1,6 +1,6 @@
 # Android-Tutorial-Phuc-Vr
 
-Project containing the entire source code for the tutorials on [Phuc VR youtube channel](https://www.youtube.com/channel/UC0znhbHQSm5kSd4RH9OW_iw) and articles on [buy me coffee.](https://www.buymeacoffee.com/phucvr)
+Project containing the entire source code for the tutorials on [Phuc VR youtube channel](https://www.youtube.com/channel/UC0znhbHQSm5kSd4RH9OW_iw) and Articles posted on [buymecoffee](https://www.buymeacoffee.com/phucvr).
 
 ## Donate
 
