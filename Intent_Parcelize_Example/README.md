@@ -4,9 +4,7 @@
 
 Kotlin supports parcelize since version 1.1.4, solving the problem of redundant code and updating Parcelable when changing model.
 
-Bạn chỉ cần định nghĩa và thêm annotation `@Parcelize` thì các phương thức `writeToParcel()`, `createFromParcel()` sẽ được sinh ra một cách tự động.
-
-You need to define and add the @Parcelize annotation, the writeToParcel(), createFromParcel() methods will be generated automatically.
+You need to define and add the `@Parcelize` annotation, the `writeToParcel()`, `createFromParcel()` methods will be generated automatically.
 
 # Donate
 
